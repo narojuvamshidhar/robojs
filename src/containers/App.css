@@ -1,0 +1,7 @@
+body {
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(117,156,163,1) 0%, rgba(103,30,106,1) 0%, rgba(33,1,33,1) 100%);
+}
+h1{
+    color: wheat;
+}
